@@ -37,4 +37,4 @@
 
 
 
-English-sop:<a href="https://mobinrajabi.github.io/mobinrajabigithub.io-sop-/"> sop</a>
+English-sop:<a href="https://mobinrajabi.github.io/english-sop/"> sop</a>
